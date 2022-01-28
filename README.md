@@ -3,6 +3,8 @@
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-akelkordy/branch/master/graph/badge.svg?token=vHwB17Ak4T)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-akelkordy)
 
+Repo Link: https://github.com/ucsb-cs156-w22/jpa03-akelkordy
+
 Storybook is here:
 
 - Production: <https://ucsb-cs156-w22.github.io/jpa03-akelkordy-docs/storybook>
